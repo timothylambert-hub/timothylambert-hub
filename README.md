@@ -1,19 +1,11 @@
 <div align="center">
-<img src="https://www.youtube.com/watch?v=QgiRIAED-r4" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm an experienced Full Stack (PHP, CakePHP, Drupal, Laravel, Vue, React) developer who has a passion for building reliable and effective web applications. I enjoy finding elegant solutions to challenging problems. </div>  
-  
-
-<br/>  
-
+https://github.com/BryanMorales215/BryanMorales215/assets/103404578/a38ed5b0-4acf-4eb0-b42e-b6ea7c197d6f
+</div>
+### <div align="center">I'm an experienced Full Stack (PHP, CakePHP, Drupal, Laravel, Vue, React) developer who has a passion for building reliable and effective web applications. I enjoy finding elegant solutions to challenging problems. </div><br/>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
-
+  
 ### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
