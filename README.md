@@ -1,6 +1,3 @@
-<div align="center">
-https://github.com/BryanMorales215/BryanMorales215/assets/103404578/a38ed5b0-4acf-4eb0-b42e-b6ea7c197d6f
-</div>
 <div align="center">I'm an experienced Full Stack (PHP, CakePHP, Drupal, Laravel, Vue, React) developer who has a passion for building reliable and effective web applications. I enjoy finding elegant solutions to challenging problems. </div><br/>  
 
 ## My Skill Set  
@@ -37,8 +34,6 @@ https://github.com/BryanMorales215/BryanMorales215/assets/103404578/a38ed5b0-4ac
 
 </td><td valign="top" width="33%">
 
-
-
 ### Backend  
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
@@ -58,8 +53,6 @@ https://github.com/BryanMorales215/BryanMorales215/assets/103404578/a38ed5b0-4ac
 
 </td><td valign="top" width="33%">
 
-
-
 ### DevOps  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
@@ -71,9 +64,7 @@ https://github.com/BryanMorales215/BryanMorales215/assets/103404578/a38ed5b0-4ac
 </div>
 
 </td></tr></table>  
-
-<br/>  
-
+<br/>
 
 ## Connect with me  
 <div align="center">
@@ -99,11 +90,7 @@ https://github.com/BryanMorales215/BryanMorales215/assets/103404578/a38ed5b0-4ac
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>
-<br/>  
-
-
+<br/>
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=BryanMorales215&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 <br/>
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
