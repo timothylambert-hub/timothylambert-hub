@@ -1,4 +1,6 @@
-<div align="center">I'm an experienced Full Stack (PHP, WordPress, Python, Django, CakePHP, Drupal, Laravel, Vue, React) developer who has a passion for building reliable and effective web applications. I enjoy finding elegant solutions to challenging problems. </div><br/>  
+<div align="center">Full-Stack Developer & Data Visualization Specialist | React, Vue, Angular, Python, Django, Laravel, Power BI, D3.js
+
+I am a Full-Stack Developer & Data Visualization Specialist with expertise in modern web development, interactive data analysis, and cloud-based solutions. I have a strong background in frontend (React, Vue, Angular), backend (Python, Django, Laravel), and data visualization (Power BI, D3.js, Matplotlib), allowing me to build scalable applicatioins and data-driven insights for businesses. </div><br/>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
